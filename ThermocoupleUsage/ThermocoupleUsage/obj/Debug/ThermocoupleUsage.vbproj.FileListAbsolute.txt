@@ -1,0 +1,15 @@
+F:\ThermocoupleUsage\ThermocoupleUsage\bin\Debug\ThermocoupleUsage.exe.config
+F:\ThermocoupleUsage\ThermocoupleUsage\bin\Debug\ThermocoupleUsage.exe
+F:\ThermocoupleUsage\ThermocoupleUsage\bin\Debug\ThermocoupleUsage.pdb
+F:\ThermocoupleUsage\ThermocoupleUsage\bin\Debug\ThermocoupleUsage.xml
+F:\ThermocoupleUsage\ThermocoupleUsage\obj\Debug\ThermocoupleUsage.vbprojResolveAssemblyReference.cache
+F:\ThermocoupleUsage\ThermocoupleUsage\obj\Debug\ThermocoupleUsage.Resources.resources
+F:\ThermocoupleUsage\ThermocoupleUsage\obj\Debug\ThermocoupleUsage.vbproj.GenerateResource.Cache
+F:\ThermocoupleUsage\ThermocoupleUsage\obj\Debug\ThermocoupleUsage.vbproj.CoreCompileInputs.cache
+F:\ThermocoupleUsage\ThermocoupleUsage\obj\Debug\ThermocoupleUsage.exe
+F:\ThermocoupleUsage\ThermocoupleUsage\obj\Debug\ThermocoupleUsage.xml
+F:\ThermocoupleUsage\ThermocoupleUsage\obj\Debug\ThermocoupleUsage.pdb
+F:\ThermocoupleUsage\ThermocoupleUsage\obj\Debug\ThermocoupleUsage.frmChooseForm.resources
+F:\ThermocoupleUsage\ThermocoupleUsage\obj\Debug\ThermocoupleUsage.frmNewThermocouple.resources
+F:\ThermocoupleUsage\ThermocoupleUsage\obj\Debug\ThermocoupleUsage.frmRecordUse.resources
+F:\ThermocoupleUsage\ThermocoupleUsage\obj\Debug\ThermocoupleUsage.frmUsageLog.resources
